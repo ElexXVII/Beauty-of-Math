@@ -2,7 +2,7 @@ import matplotlib.pyplot as plt
 import numpy as np
 from math import *
 
-#Choos wich equation you want to draw (0 to 3)!
+#Choose wich equation you want to draw (0 to 3)!
 f = 3
 
 #Create a list of value for t to draw each point
