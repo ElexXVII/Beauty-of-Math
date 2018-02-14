@@ -68,11 +68,8 @@ for i in t:
 plt.plot(x,y)
 
 if f==0:
-	#Plot the 3 points in red for the straight line
-	plt.scatter([1,2,5],[-1,0,3],color="r")
-
-#Define a specific placement on graph for the straight line
-elif f==0:
+     #Plot the 3 points in red for the straight line
+     plt.scatter([1,2,5],[-1,0,3],color="r")
      plt.axis([-2,6,-2,6])
 
 #Plot Grid or not :
