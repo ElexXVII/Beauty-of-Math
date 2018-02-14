@@ -8,7 +8,7 @@ f = 3
 #Create a list of value for t to draw each point
 t = np.linspace(-100,100,1000000)
 
-#Define all equation
+#Define all equations
 def x0(k):
      return k+1
 
