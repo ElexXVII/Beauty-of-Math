@@ -33,7 +33,7 @@ def x3(k):
 def y3(k):
      return k**3/(1+k**4)
 
-#Create empty list
+#Create empty lists x and y
 x = []
 y = []
 
