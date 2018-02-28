@@ -2,9 +2,10 @@ import matplotlib.pyplot as plt
 import numpy as np
 import time as t
 
-n = 50.5    # 50.5,
+n = 50.5
 l = [69,76,77]
 
+#Choos the figure it will show [figure 0,figure 1,figure 2]
 r=0
 
 while True:
